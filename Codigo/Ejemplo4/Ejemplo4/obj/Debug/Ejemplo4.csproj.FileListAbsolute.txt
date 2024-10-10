@@ -1,0 +1,7 @@
+C:\Users\diede\Desktop\Metodología\Paradigma MetYProg\InvestigacionDivideVenceras\Codigo\Ejemplo4\Ejemplo4\bin\Debug\Ejemplo4.exe.config
+C:\Users\diede\Desktop\Metodología\Paradigma MetYProg\InvestigacionDivideVenceras\Codigo\Ejemplo4\Ejemplo4\bin\Debug\Ejemplo4.exe
+C:\Users\diede\Desktop\Metodología\Paradigma MetYProg\InvestigacionDivideVenceras\Codigo\Ejemplo4\Ejemplo4\bin\Debug\Ejemplo4.pdb
+C:\Users\diede\Desktop\Metodología\Paradigma MetYProg\InvestigacionDivideVenceras\Codigo\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.csproj.AssemblyReference.cache
+C:\Users\diede\Desktop\Metodología\Paradigma MetYProg\InvestigacionDivideVenceras\Codigo\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.csproj.CoreCompileInputs.cache
+C:\Users\diede\Desktop\Metodología\Paradigma MetYProg\InvestigacionDivideVenceras\Codigo\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.exe
+C:\Users\diede\Desktop\Metodología\Paradigma MetYProg\InvestigacionDivideVenceras\Codigo\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.pdb
