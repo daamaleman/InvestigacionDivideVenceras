@@ -1,0 +1,7 @@
+C:\Users\itsda\Desktop\njkn\InvestigacionDivideVenceras\Codigo\Ejemplo2\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.csproj.AssemblyReference.cache
+C:\Users\itsda\Desktop\njkn\InvestigacionDivideVenceras\Codigo\Ejemplo2\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.csproj.CoreCompileInputs.cache
+C:\Users\itsda\Desktop\njkn\InvestigacionDivideVenceras\Codigo\Ejemplo2\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.exe.config
+C:\Users\itsda\Desktop\njkn\InvestigacionDivideVenceras\Codigo\Ejemplo2\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.exe
+C:\Users\itsda\Desktop\njkn\InvestigacionDivideVenceras\Codigo\Ejemplo2\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.pdb
+C:\Users\itsda\Desktop\njkn\InvestigacionDivideVenceras\Codigo\Ejemplo2\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.exe
+C:\Users\itsda\Desktop\njkn\InvestigacionDivideVenceras\Codigo\Ejemplo2\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.pdb
