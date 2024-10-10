@@ -1,0 +1,7 @@
+C:\Users\denis\OneDrive\Documentos\InvestigacionDivideVenceras\Codigo\Ejemplo 1\Ejemplo 1\bin\Debug\Ejemplo 1.exe.config
+C:\Users\denis\OneDrive\Documentos\InvestigacionDivideVenceras\Codigo\Ejemplo 1\Ejemplo 1\bin\Debug\Ejemplo 1.exe
+C:\Users\denis\OneDrive\Documentos\InvestigacionDivideVenceras\Codigo\Ejemplo 1\Ejemplo 1\bin\Debug\Ejemplo 1.pdb
+C:\Users\denis\OneDrive\Documentos\InvestigacionDivideVenceras\Codigo\Ejemplo 1\Ejemplo 1\obj\Debug\Ejemplo 1.csproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\Documentos\InvestigacionDivideVenceras\Codigo\Ejemplo 1\Ejemplo 1\obj\Debug\Ejemplo 1.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Documentos\InvestigacionDivideVenceras\Codigo\Ejemplo 1\Ejemplo 1\obj\Debug\Ejemplo 1.exe
+C:\Users\denis\OneDrive\Documentos\InvestigacionDivideVenceras\Codigo\Ejemplo 1\Ejemplo 1\obj\Debug\Ejemplo 1.pdb
